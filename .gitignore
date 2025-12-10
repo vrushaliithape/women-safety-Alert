@@ -1,0 +1,12 @@
+# Ignore sensitive configuration file
+src/config.h
+
+# Ignore compiled firmware files
+*.bin
+*.elf
+*.hex
+
+# Ignore PlatformIO/Arduino IDE build files
+.pio/
+/build/
+/debug/
