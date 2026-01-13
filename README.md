@@ -7,7 +7,7 @@ An automated safety system built on the **ESP32** platform that uses an **I2S mi
 2.  Determine its approximate **geographic location** (via IP Geolocation API).
 3.  Send an **urgent email alert** to a designated recipient, including the location details.
 
-## 🎥 Project Demo 
+# 🎥 Project Demo 
 
 
 [Watch the Full Project Demo Here]
